@@ -11,7 +11,7 @@ This assignment consists of four main parts:
 # Getting started
 ## Required tools:
 * [R Studio](https://www.rstudio.com/products/rstudio/download/)
-* [R programming language] (https://cran.r-project.org/bin/windows/base/)
+* [R programming language](https://cran.r-project.org/bin/windows/base/)
 
 ## Required packages:
 library("spotifyr")
